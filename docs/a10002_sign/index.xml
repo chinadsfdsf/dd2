@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="hddp://www.w3.org/2005/Atom">
   <channel>
     <title>10002 whitehouse 白宫请愿  on  dd2.chinadsf.org </title>
-    <link>/sign/</link>
+    <link>/a10002_sign/</link>
     <description>Recent content in 10002 whitehouse 白宫请愿  on  dd2.chinadsf.org </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="/sign/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/a10002_sign/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
