@@ -23,3 +23,6 @@ weight = 20
 
 * [  30001 liangzhichuanmei.com : The Conscience Media ( Chinese , origin , blocked in China ) ]({{< relref "a30001_conscience_media__Chinese_orgin" >}})
 
+
+* [  30002 lzmt.chinadsf.org : The Conscience Media ( Chinese , mirror on github ) ]({{< relref "a30002_conscience_media__Chinese_mirror_on_github" >}})
+
