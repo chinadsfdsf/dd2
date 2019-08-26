@@ -12,7 +12,7 @@ weight = 20
 * [  10002 petitions on whitehouse 白宫请愿  ]({{< relref "a10002_sign" >}})
 
 
-* [  20001  https://www.jiuguozhenxian.org/ : The China Democratic Salvation Front ( Chinese , origin ) ]({{< relref "a20001_China_Democratic_Salvation_front__Chinese_origin" >}})
+* [  20001 jiuguozhenxian.org : The China Democratic Salvation Front ( Chinese , origin ) ]({{< relref "a20001_China_Democratic_Salvation_front__Chinese_origin" >}})
 
 
 * [  20002 cn.chinadsf.org : The China Democratic Salvation Front ( Chinese , mirror on github ) ]({{< relref "a20002_China_Democratic_Salvation_front__Chinese_mirror_on_github" >}})
