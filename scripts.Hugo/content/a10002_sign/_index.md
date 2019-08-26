@@ -1,5 +1,5 @@
 +++
-title = "10002 petitions on whitehouse 白宫请愿 "
+title = " 10002 petitions on whitehouse 白宫请愿 "
 description = " petitions on whitehouse 政治 白宫请愿 https://petitions.whitehouse.gov/ "
 weight = 20
 +++
