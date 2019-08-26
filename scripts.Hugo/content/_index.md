@@ -18,5 +18,8 @@ weight = 20
 * [  20002 cn.chinadsf.org : The China Democratic Salvation Front ( Chinese , mirror on github ) ]({{< relref "a20002_China_Democratic_Salvation_front__Chinese_mirror_on_github" >}})
 
 
-* [  30001 en.chinadsf.org : The China Democratic Salvation Front ( English ) ]({{< relref "a30001_China_Democratic_Salvation_front__English" >}})
+* [  25001 en.chinadsf.org : The China Democratic Salvation Front ( English ) ]({{< relref "a25001_China_Democratic_Salvation_front__English" >}})
+
+
+* [  30001 liangzhichuanmei.com : The Conscience Media ( Chinese , origin , blocked in China ) ]({{< relref "a30001_conscience_media__Chinese_orgin" >}})
 
