@@ -1,5 +1,5 @@
 +++
-title = "10001 唐柏橋 Youtebe @BaiqiaoCh "
+title = "10001 Baiqiao Tang mirror of Youtebe @BaiqiaoCh 唐柏橋 "
 description = "1政治 https://www.youtube.com/channel/UCeBfK3zzgqDQLhBovmguOuQ https://twitter.com/tangbaiqiao "
 weight = 20
 +++
